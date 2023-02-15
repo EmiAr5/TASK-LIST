@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { Task } from '../tasks';
 import { TASKS } from '../mock-task';
 
+
 @Component({
   selector: 'app-tasks',
   templateUrl: './tasks.component.html',
